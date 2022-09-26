@@ -1,29 +1,3 @@
-/*
-Template Name: Color Admin - Responsive Admin Dashboard Template build with Twitter Bootstrap 3 & 4
-Version: 4.0.0
-Author: Sean Ngu
-Website: http://www.seantheme.com/color-admin-v4.0/frontend/one-page-parallax/
-    ----------------------------
-        APPS CONTENT TABLE
-    ----------------------------
-    
-    <!-- ======== GLOBAL SCRIPT SETTING ======== -->
-    01. Handle Home Content Height
-    02. Handle Header Navigation State
-    03. Handle Commas to Number
-    04. Handle Page Container Show
-    05. Handle Pace Page Loading Plugins
-    06. Handle Page Scroll Content Animation
-    07. Handle Header Scroll To Action
-    08. Handle Tooltip Activation
-    09. Handle Theme Panel Expand
-    10. Handle Theme Page Control
-	
-    <!-- ======== APPLICATION SETTING ======== -->
-    Application Controller
-*/
-
-
 
 /* 01. Handle Home Content Height
 ------------------------------------------------ */
